@@ -16,4 +16,6 @@ A partir do Inventário de dados da seção de download de dados no site do CEM 
 
 ## Resultados
 
-Espera-se a partir do compartilhamento do processo de automatização e da consstrução de uma base do CKAN a partir de dados existentes a persitência da metodologia para além da análise na tomada de decisão de utilização de uma ferramenta. Mas sobretudo o fomento da discussão sobre a facilitação do uso de ferramentas livres e abertas existentes como forma de valorização do patrimônio coletivo que é o Software Livre.
+O primeiro resultado prático desse trabalho é a documentação do inventário de arquivos disponíveis para download no site do CEM, disponível na pasta `resultados` em formato `json`. Isso permite por exemplo a documentação de uma forma automatizada para repetir esse procedimento quando necessário, além de possibilitar o download automatizado de toda a base a outros pesquisadores.
+
+Espera-se a partir do compartilhamento do processo de automatização e da construção de uma base do CKAN a partir de dados existentes a persitência da metodologia para além da análise na tomada de decisão de utilização de uma ferramenta. Mas sobretudo o fomento da discussão sobre a facilitação do uso de ferramentas livres e abertas existentes como forma de valorização do patrimônio coletivo que é o Software Livre.
