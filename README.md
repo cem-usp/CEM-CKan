@@ -12,7 +12,11 @@ Esse repositório tem como objetivo desenvolver e publicar uma forma automatizad
 
 ## Materiais e Métodos
 
-A partir do Inventário de dados da seção de download de dados no site do CEM os arquivos são baixados e uma nova instância do CKAN é implantada e configurada com a finalidade de uso em máquinas locais
+A partir do Inventário de dados da seção de download de dados no site do CEM os arquivos são baixados para poder ser implantada uma nova instância do CKAN é implantada e configurada com a finalidade de uso em máquinas locais
+
+Os processamentos estão organizados em Jupyter NoteBooks com código em Python,  disponibilizados de forma enumerada de forma sequencial.
+
+Esse método está em processo de desenvolvimento e atualização devem ser refletidas aqui.
 
 ## Resultados
 
